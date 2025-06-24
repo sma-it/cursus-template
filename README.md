@@ -8,6 +8,9 @@ Dit is een voorbeeld van een cursus op GitHub. Deze cursus kan je raadplegen op 
 4. Upload je code
 5. Gan naar de Settings van je repository op github
 6. Kies voor Pages
+7. Bij Build and deployment kies je voor 'deploy' from a branch', en daaronder de main branch.
+8. Elke push naar main is nu een build trigger.
+
 
 ## Installatie
 
